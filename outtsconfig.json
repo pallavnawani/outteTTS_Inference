@@ -1,0 +1,15 @@
+{
+    "model_path": "OuteAI/OuteTTS-0.2-500M",
+    "language": "en",
+    "dtype": "bfloat16",
+    "attn_implementation": "flash_attention_2",
+    "n_gpu_layers": 0,
+    "model_version": "0.2",
+    "text": "Speech synthesis is the artificial production of human speech. A computer system used for this purpose is called a speech synthesizer, and it can be implemented in software or hardware products.",
+    "temperature": 0.1,
+    "repetition_penalty": 1.0,
+    "max_length": 4096,
+    "speaker_name": "male_1",
+    "speakers_dir": "speakers",
+    "outputs_dir": "outputs"
+}

@@ -1,0 +1,95 @@
+OutputName,SpeakerID,Text
+Cuts_000_Luna,WomanClear1, Grandmother's pendant... it's glowing!
+Cuts_001_Luna,WomanClear1,The hills are glowing too... What could be happening?
+Cuts_002_Luna,WomanClear1, The pendant is leading me towards the hills…
+Cuts_003_Luna,WomanClear1,I guess I should follow it.
+Cuts_004_Luna,WomanClear1,What a strange crystal! I have never seen something like this before!
+Cuts_005_Luna,WomanClear1,It is glowing red... and there are shadows coming out of it.
+Cuts_006_Luna,WomanClear1,I need to tell someone about this.
+Cuts_007_Luna,WomanClear1,"Elder Thora, grandmother’s pendant was glowing, I followed it and…"
+Cuts_008_Elder Thora,en_female_1,What? The pendant was glowing?
+Cuts_009_Elder Thora,en_female_1,That’s great news!
+Cuts_010_Elder Thora,en_female_1,The crystals have chosen you to be the crystal sage!
+Cuts_011_Luna,WomanClear1,Me? But I'm just a normal girl.
+Cuts_012_Elder Thora,en_female_1,Your grandmother's pendant proves otherwise.
+Cuts_013_Elder Thora,en_female_1,You must take the crystal test and embrace your destiny as the crystal keeper.
+Cuts_014_Luna,WomanClear1,The crystals feel so cold…
+Cuts_015_Luna,WomanClear1,Can I even light it up?
+Cuts_016_Elder Thora,en_female_1,"Don’t worry, Luna.  You cannot fail. The crystals  themselves have chosen you."
+Cuts_017_Luna,WomanClear1,"Alright, I will try."
+Cuts_018_Elder Thora,en_female_1,"You did it! You are indeed the new Crystal Keeper."
+Cuts_019_Maven,tom,"Hello,young keeper! I'm Maven."
+Cuts_020_Luna,WomanClear1,Wow… A talking creature!
+Cuts_021_Maven,tom,I'm here to teach you about the crystal songs.
+Cuts_022_Luna,WomanClear1,I am ready to learn.
+Cuts_023_Elder Thora,en_female_1,"You are now a Crystal Keeper, so you should meet the other Crystal Keepers."
+Cuts_024_Elder Thora,en_female_1,"Go and visit the Sage Amara, the keeper of the flame crystals."
+Cuts_026_Luna,WomanClear1,Sage Amara? Are you here?
+Cuts_027_Luna,WomanClear1,Something happened here. I can see traces of shadows... could they have taken her?
+Cuts_028_Luna,WomanClear1,I should go back immediately and inform Elder Thora.
+Cuts_029_Maven,tom,"Look, here is a crystal with a dying light. Try to light it up."
+Cuts_030_Luna,WomanClear1,Huh! It’s not working!
+Cuts_031_Maven,tom,You need to awaken the light within the crystal.
+Cuts_032_Luna,WomanClear1,I can't do it. The crystal just won't light up!
+Cuts_033_Luna,WomanClear1,Maybe I am not cut out to be a Crystal Sage after all.
+Cuts_034_Maven,tom,"Trust yourself, Luna. Try again."
+Cuts_035_Maven,tom,Every crystal has a song. Listen to the crystals’ song—It will  guide you.
+Cuts_036_Luna,WomanClear1,"It worked! Thank you, Maven."
+Cuts_037_Luna,WomanClear1,Oh my god! Crystal Sage Amara!
+Cuts_038_Luna,WomanClear1,You are wounded! What happened to you?
+Cuts_039_Amara,mol_woman,The shadows... they're too strong...
+Cuts_040_Luna,WomanClear1,"Hold on, Crystal Sage. I'll help you."
+Cuts_041_Amara,mol_woman,You must stop the Shadow Seeker. She is planning to turn all the crystal to the shadows.
+Cuts_042_Crystal Mage,man_pat2,The Crystal Caverns—they’re under attack! Shadows are spreading everywhere!
+Cuts_043_Elder Thora,en_female_1,We can’t let this continue. We need to save the crystals.
+Cuts_044_Amara,mol_woman,"The crystal caverns are the source of all life on Tara. If they get corrupted, all life will be corrupted!"
+Cuts_045_Luna,WomanClear1,I’m ready. Let’s save them.
+Cuts_046_Crystal Golem,GhostVoice,Arrrrr!
+Cuts_047_Luna,WomanClear1,What is this thing!
+Cuts_048_Amara,mol_woman,A crystal golem. Go! I'll hold it back!
+Cuts_049_Elder Thora,en_female_1,"Luna, we must hurry!"
+Cuts_050_Luna,WomanClear1,But
+Cuts_051_Amara,mol_woman,The crystals need you more than I do!
+Cuts_052_Elder Thora,en_female_1,The gates to the crystal cavern are closed!
+Cuts_053_Luna,WomanClear1,The gates seem to be sealed with magic.
+Cuts_054_Luna,WomanClear1,How do we get in?
+Cuts_055_Elder Thora,en_female_1,Leave it to me.
+Cuts_056_Elder Thora,en_female_1,Uses her magic
+Cuts_057_Elder Thora,en_female_1,"Go, Luna. The crystals are waiting for you."
+Cuts_058_Luna,WomanClear1,You! Stop that!
+Cuts_059_Shadow Seeker,en_female_2,"Stop?  I’m afraid I can’t do that, little one."
+Cuts_060_Luna,WomanClear1,Fine! Then I’ll stop you!
+Cuts_061_Shadow Seeker,en_female_2,"You are welcome to try, but it won’t be easy."
+Cuts_062_Shadow Seeker,en_female_2,You are surprisingly strong for someone so naive.
+Cuts_063_Shadow Seeker,en_female_2,Wait! That amulet? Where did you get it?
+Cuts_064_Luna,WomanClear1,It once belonged to my grandmother.
+Cuts_065_Shadow Seeker,en_female_2,"So, my sister's granddaughter has come."
+Cuts_066_Luna,WomanClear1,You're... my great-aunt Anita?
+Cuts_067_Luna,WomanClear1,But why did you give in to the shadows?
+Cuts_068_Shadow Seeker,en_female_2,Once I was a crystal keeper like you.
+Cuts_069_Shadow Seeker,en_female_2,But I meddled with things far beyond my understanding. Dark things that tried to take over my soul.
+Cuts_070_Shadow Seeker,en_female_2,"Rose tried to 'save' me, but she used up all her magic and disappeared in the final battle."
+Cuts_071_Shadow Seeker,en_female_2,"Now, it's too late. I will destroy the light within the crystals and everything will be  dark!"
+Cuts_072_Luna,WomanClear1,It's never too late for family.
+Cuts_073_Shadow Seeker,en_female_2,I admit defeat.  I can’t believe you are so strong already.
+Cuts_074_Luna,WomanClear1,"Great-aunt, let me help you."
+Cuts_075_Luna,WomanClear1,Begins singing a crystal song of light
+Cuts_076_Anita,en_female_2,"The light... I had forgotten how warm it feels..."
+Cuts_077_Luna,WomanClear1,Welcome back to the family.
+Cuts_078_Maven,tom,"Beautiful morning, isn't it?"
+Cuts_079_Luna,WomanClear1,The most beautiful I've ever seen.
+Cuts_080_Elder Thora,en_female_1,The land hasn't felt this alive in decades.
+Cuts_081_Amara,mol_woman,Thanks to our young Crystal Keeper here.
+Cuts_082_Luna,WomanClear1,I had help. We all did it together.
+Cuts_083_Anita,en_female_2,May I... may I join you?
+Cuts_084_Luna,WomanClear1,Great-aunt Anita!
+Cuts_085_Anita,en_female_2,Rose's pendant... it still shines so brightly.
+Cuts_086_Maven,tom,Just like her granddaughter.
+Cuts_087_Elder Thora,en_female_1,"Rose would be proud, both of her daughter and her sister."
+Cuts_088_Amara,mol_woman,"Welcome back to the light, old friend."
+Cuts_089_Luna,WomanClear1,Listen! The crystals are singing!
+Cuts_090_Anita,en_female_2,I'd forgotten how beautiful their song could be.
+Cuts_091_Luna,WomanClear1,Will you help me learn more about crystals? About Grandmother Rose?
+Cuts_092_Anita,en_female_2,I would be honoured. There's so much to tell...
+Cuts_093_Elder Thora,en_female_1,And so much more for all of us to discover together.
+Cuts_094_Luna,WomanClear1,This feels like a new beginning.
